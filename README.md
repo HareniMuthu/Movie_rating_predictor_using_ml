@@ -30,7 +30,8 @@ To set up and run the project locally, follow these steps:
 1. Clone the Repository**
 
 Open a terminal and run:
-git clone https://github.com/HareniMuthu/Movie_rating_predictor.git
+git clone https://github.com/HareniMuthu/Movie_rating_predictor_using_ml.git
+
 cd Movie_rating_predictor
 
 
